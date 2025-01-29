@@ -1,8 +1,15 @@
-# 💫 About Me:
-<img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Sohan+Shiri!;" />
-<img src="https://komarev.com/ghpvc/?username=SohanShiri&label=Profile%20views&color=red&style=flat-square" alt="SohanShiri" />
-🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Web Design <br>🤝 I’m looking for help with New Languages and Backend<br>🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Anything !<br>😂 Fun Fact: My code never has bugs. It just develops unexpected features. 🐛✨
 
+  # 💫 About Me:
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Sohan+Shiri!;" />
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=SohanShiri&label=Profile%20views&color=red&style=flat-square" alt="SohanShiri" />
+</p>
+  <p align="center">
+🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Web Design <br>🤝 I’m looking for help with New Languages and Backend<br>🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Anything !<br>😂 Fun Fact: My code never has bugs. It just develops unexpected features. 🐛✨
+  </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61556559071833) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sohanshiri/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Sohan_Shiri) 
