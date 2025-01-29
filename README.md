@@ -2,7 +2,7 @@
      
   
 
-<imgsrc="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Shahiz+Moidin!;Every+line+of+code+alters+destiny.;Unleashing+Flutter+Magic...✨" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Kaushan+Script&size=32&center=true&vCenter=true&width=440&height=45&color=FF6347&background=00000000&duration=4000&lines=Hello%2C+I'm+Shahiz+Moidin!;Every+line+of+code+alters+destiny.;Unleashing+Flutter+Magic...✨" />
 🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Web Design <br>🤝 I’m looking for help with New Languages and Backend<br>🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Anything !<br>😂 Fun Fact: My code never has bugs. It just develops unexpected features. 🐛✨
 
 
