@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Sohan Shiri</h1>
+<marquee><h1 align="center">Hi 👋, I'm Sohan Shiri</h1></marquee>
 🔭 I’m currently working on Web Development <br>👯 I’m looking to collaborate on Web Design <br>🤝 I’m looking for help with New Languages and Backend<br>🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Anything !<br>😂 Fun Fact: My code never has bugs. It just develops unexpected features. 🐛✨
 
 
