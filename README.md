@@ -1,4 +1,4 @@
-<center># 💫 About Me:
+<center># 💫 About Me:</center>
      
   
 
@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=SohanShiri&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</center>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SohanShiri/SohanShiri/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SohanShiri/SohanShiri/output/github-snake.svg" />
