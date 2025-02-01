@@ -53,4 +53,6 @@
 </picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
 <p>@SohanShiri©</p>
+</p>
